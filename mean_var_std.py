@@ -19,7 +19,7 @@ def calculate(values):
     
     #Mean Flat 
     mean_flat = np.sum(values) / 9
-
+            
 
     #Variance Axis 1
     var_axis1_0 = np.var(transposed_matrix[0])
